@@ -2,7 +2,7 @@
 
 Welcome to my GitHub! I'm a Senior Machine Learning Engineer working at Tenstorrent, Inc. on next generation AI accelerator hardware and software 2.0.
 
-![image](mkordic94/images/stormtrooper_dalle.png)
+![image](stormtrooper_dalle.png)
 
 <!--
 **milank94/milank94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
