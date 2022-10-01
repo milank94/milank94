@@ -1,4 +1,8 @@
-### Hi there 👋
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/milankordic/) [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@milan-kordic)
+
+Welcome to my GitHub! I'm a Senior Machine Learning Engineer working at Tenstorrent, Inc. on next generation AI accelerator hardware and software 2.0.
+
+![image](mkordic94/images/stormtrooper_dalle.png)
 
 <!--
 **milank94/milank94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
