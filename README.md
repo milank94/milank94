@@ -1,4 +1,4 @@
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/milankordic/) [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@milan-kordic)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/milankordic/) [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@milan-kordic) [<img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" />](https://youtube.com/@milankordic)
 
 Welcome to my GitHub! I'm a Senior Machine Learning Engineer at [Tenstorrent, Inc.](https://tenstorrent.com/) working on [AI hardware accelerators](https://en.wikipedia.org/wiki/AI_accelerator) and [software 2.0](https://karpathy.medium.com/software-2-0-a64152b37c35).
 
